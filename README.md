@@ -19,3 +19,7 @@ An app to get the best deals in the nearby restaurants
 # <br/> How to run this app
 - Clone this repository
 - Build the application
+# <br/>Screenshort 📸
+![Screenshort](https://github.com/nehapraksh/FoodDealsApp/blob/main/screenshots/restaurant_list.jpg)
+![Screenshort](https://github.com/nehapraksh/FoodDealsApp/blob/main/screenshots/restaurant_details.jpg)
+![Screenshort](https://github.com/nehapraksh/FoodDealsApp/blob/main/screenshots/search_restaurant.jpg)
