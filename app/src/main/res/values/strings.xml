@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodDeals</string>
+    <string name="text_home">Restaurants</string>
+    <string name="text_details">Details</string>
+</resources>
